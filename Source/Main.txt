@@ -1,7 +1,7 @@
 This is my main source code file.
 
-Adding some more source code here.
+Adding some more source code here. Some ammendments for feature two.
 
-And here.
+And here. More for feature two.
 
 And here too.
