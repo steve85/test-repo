@@ -1,8 +1,8 @@
 This is my main source code file.
 
-Adding some more source code here. Feature three is soooo good.
+Adding some more source code here. Some ammendments for feature two.
 
-And here. Feature three is the best.
+And here. More for feature two.
 
 And here too. Feature three was here....
 
